@@ -12,7 +12,7 @@ https://www.dirman.web.id/p/blog-teknologi.html
 2. Menu Pages (Halaman Statis Blogger)
 3. Pilih Editorial HTML
 4. Masukkan Kode
-5. Edit Sesuai Kebutuhan: gambar header posting, nama label, link ke label tertentu
+5. Edit Sesuai Kebutuhan: judul kategori, label dan link, jumlah konten yang ditampilnya, gambar kosong
 6. Publikasikan Halaman
 
 **_Sumber inspirasi_**: _https://www.kang-ismet.com/2024/09/widget-sidebar-recent-post-di-blogger.html_
